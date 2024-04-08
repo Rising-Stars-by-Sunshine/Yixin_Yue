@@ -19,6 +19,7 @@
 - Additionally, incorporating a broader range of authoritative and interdisciplinary datasets and corpus into the training of future models should be considered to mitigate the risk of potential biases. Zhou et al. (2024) have proved that models trained exclusively on financial datasets may demonstrate greater irrationality, and there exists a possibility that larger financial language models could exhibit more biases compared to smaller, more generalized models. Human interventions, such as applying Comparative Output Testing (COT), are essential in this scenario to “slow down the cognitive processes of models” and improve the logical consistency and financial acumen of the model outputs to better inform decision-making(Zhou et al., 2024).
 
 **Bibliography**
+
 Chen, Yiting, Tracy Xiao Liu, You Shan, and Songfa Zhong. 2023. “The Emergence of Economic Rationality of GPT.” Proceedings of the National Academy of Sciences of the United States of America 120 (51). https://doi.org/10.1073/pnas.2316205120.
 
 Zhou, Yuhang, Yuchen Ni, Xiang Liu, Jian Zhang, Sen Liu, Guangnan Ye, and Hongfeng Chai. 2024. “Are Large Language Models Rational Investors?” ArXiv.org. February 19, 2024. https://doi.org/10.48550/arXiv.2402.12713.
