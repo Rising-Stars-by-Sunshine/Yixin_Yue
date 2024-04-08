@@ -1,10 +1,8 @@
 **Question1: When computer science meets economics: Who do you truly want to become? Pick one of your favorite Nobel Prize winners and Turing Award winners. How do you want to contribute to the intersection of the two north stars to advance human civilizations?**
-**<font color="red">Question1:</font>**
-My favorite Nobel Prize winner is a famous playwright named George Bernard Shaw, whose plays continue to be performed today in theaters around the world.
 
-My favorite Turing Awards winners are Edwin Catmull and Pat Hanrahan. They were honored for their significant contributions to three-dimensional computer graphics and their groundbreaking influence on the film industry.
-
-I’d like to apply computer-generated imagery and motion capture technologies to reproduce the realistic classic plays into synchronously rendered virtual animations to reach a broader audience including children and teenagers.
+- My favorite Nobel Prize winner is a famous playwright named George Bernard Shaw, whose plays continue to be performed today in theaters around the world.
+- My favorite Turing Awards winners are Edwin Catmull and Pat Hanrahan. They were honored for their significant contributions to three-dimensional computer graphics and their groundbreaking influence on the film industry.
+- I’d like to apply computer-generated imagery and motion capture technologies to reproduce the realistic classic plays into synchronously rendered virtual animations to reach a broader audience including children and teenagers.
 
 **Question2: CS&Econ for a Better Future: How do you perceive the synergy between computer science and economics as a catalyst for steering innovation toward a brighter future? Please present a foundational assertion, followed by multiple specific instances that support your claim, including a reference to a topic discussed at the colloquium on Friday, March 22**
 
