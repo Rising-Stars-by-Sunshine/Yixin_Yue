@@ -6,7 +6,7 @@ Based on my personal experience, I think:
 - There is a potential issue about data privacy. Since oTree experiments are typically hosted on servers of researchers or institutions, there may cause data exposure if the servers are not adequately secured.
 ![21951712587939_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/e0453c81-2b93-4166-9616-220c92728a43)
 
-fig.1. Screenshot of the crowded window
+<center>fig.1. Screenshot of the crowded window</center>
 
 To advance oTree based on the points I mentioned above, 
 - Using built-in functions to reduce the programming complexity is crucial. In particular, introducing PlanOut language can potentially fix that. According to Bakshy, Eckles, and Bernstein (2014), PlanOut separates experimental design from application code in online field experiments by allowing experimenters to concisely describe experimental designs using a specific language. This separation can help users focus on defining how units are randomly assigned to conditions based on parameters, rather than embedding experimental logic within the application code. By encapsulating experimental logic in simple scripts that assign values to parameters, PlanOut provides a clear and structured way to define and manage experiments.
@@ -14,7 +14,7 @@ To advance oTree based on the points I mentioned above,
 - More security measures should be done to protect participants' data from unauthorized access or breaches.When transferring data between oTree servers and external systems, researchers must use secure protocols (e.g., HTTPS) to encrypt data in transit and prevent interception or tampering.Using oTree development should comply with applicable data protection laws and regulations, such as the General Data Protection Regulation (GDPR) in the European Union or the Health Insurance Portability and Accountability Act (HIPAA) in the United States.
 ![21941712587909_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/7bd0c2b9-2877-4d53-aa40-1e8e69aa05ad)
 
-fig.2. Mindmap for Upgrade oTree
+<center>fig.2. Mindmap for Upgrade oTree</center>
 
 
 **Question2: Delve into the limitations of current multi-agent reinforcement learning (MARL) frameworks, focusing on environment constraints and agent algorithm customizations. Choose a classic game (e.g., Prisoner's Dilemma, Battle of the Sexes, or the Trust Game) to illustrate these limitations. Describe the development process of a MARL agent for your selected game, detailing the definition of states, actions, and rewards grounded in fundamental behavioral assumptions. Your analysis should provide insights into overcoming MARL's current limitations, fostering advancements in the field. Submit a comprehensive report (500 words max) with your findings and proposals.**
