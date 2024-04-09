@@ -4,5 +4,5 @@
 👋 Hi there! I'm Yixin, a sophomore majoring in computation and design-digital media. 🌍 I'm deeply enthusiastic about computational economics, and I love diving into new challenges and learning opportunities. 💡 You'll often find me tinkering with code, exploring the great outdoors 🌳, or curled up with a good book 📚 and a cup of coffee ☕️. I believe in the power of community and collaboration, and I'm always eager to connect with fellow enthusiasts and creators. Let's embark on this exciting journey together! 🚀
 
 Table of contents:
-- [CSEcon](./CSEcon.md)
-- [Advance CSEcon](./Advance_CSEcon.md)
+- [Reflection1](./CSEcon/Readme.md)
+- [Reflection2](./Advance_CSEcon/Readme.md)
