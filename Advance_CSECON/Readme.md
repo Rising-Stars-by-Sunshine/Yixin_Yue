@@ -20,12 +20,24 @@ To advance oTree based on the points I mentioned above,
 
 
 **Question2: Delve into the limitations of current multi-agent reinforcement learning (MARL) frameworks, focusing on environment constraints and agent algorithm customizations. Choose a classic game (e.g., Prisoner's Dilemma, Battle of the Sexes, or the Trust Game) to illustrate these limitations. Describe the development process of a MARL agent for your selected game, detailing the definition of states, actions, and rewards grounded in fundamental behavioral assumptions. Your analysis should provide insights into overcoming MARL's current limitations, fostering advancements in the field. Submit a comprehensive report (500 words max) with your findings and proposals.**
+Impletation for Trust Game:
 
-The development process of a Multi-Agent Reinforcement Learning (MARL) agent for Connect Four in the petting zoo environment involves several key steps. Firstly, the state space is defined based on the current configuration of the Connect Four board, including the positions of the tokens played by both players and additional features like the current player's turn and potential winning configurations. Next, the action space is defined, representing the possible moves the agent can make, typically involving dropping a token into one of the columns on the board. Actions are limited to valid moves only, i.e., columns that are not already full. Subsequently, set the reward to incentivize desirable behavior and discourage undesirable behavior, assigning positive rewards for winning the game, strategic moves, and progress towards a winning configuration, and vice versa. Finally, the agent's behavior is grounded in fundamental behavioral assumptions such as rationality, learning, and adaptation.
+https://colab.research.google.com/drive/1pL-qFpME7lY4BFtGiFkTnLVdYjCH-dCL?usp=sharing
 
-![21921712582532_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/b2dce350-bd36-48cc-a4c9-bc796ebde10d)
+![21991712636751_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/9a858e4a-5c05-4ce5-bd6e-84289022d7c3)
 
-This MARL did a good job of understanding the rules of Connect Four, however, its ability to simulate human decision-making, particularly strategic thinking aimed at swiftly winning the game, is still not mature enough. For instance, a human player would prioritize placing a white token to block a potential win by the black player in the first row. In such a scenario, human reasoning would prioritize strategic moves to thwart the opponent's progress, a capability not fully mirrored in the agent's behavior. To improve, I think the program can achieve superhuman performance in these strategic games by reinforcement learning from self-play just like AlphaGo(Silver et al. 2018). 
+*fig.3. Mindmap of the environment components.*
+
+I think the Trust Game environment for MARL has several limitations. 
+- It has only two agents and limited actions (SEND or RECEIVE), coupled with a fixed game length, restricts its applicability to capturing the complexity of real-world interactions.(as the number of agents increases, the environment becomes less stable, and coordination among agents becomes more difficult.)
+
+- The lack of comprehensive state information and a limited action space may hinder agents' ability to find the optimal strategies. Deterministic rewards further simplify the learning process but fail to capture the uncertainty present in real-world environments. Furthermore, the fixed roles assigned to agents and the absence of a learning mechanism limit the environment's ability to explore dynamic agent interactions and emergent behavior.
+
+To addresss:
+- Expand the environment to include more agents, a broader range of actions and states. Allow mutation/inheritance or
+competition between two types in a finite population.
+
+- Use more sophisticated learning methods, such as Frequency-Adjusted Q-learning or WoLF. In addition, we can also extend to other Machine Learning techniques such as Neural Networks.
 
 **Question3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research**
 
