@@ -57,8 +57,7 @@ competition between two types in a finite population.
 
 **Critique of the Application Scenario:** I think it requires further experimental validation and real-world deployment of the proposed mechanism in FL systems. Additionally, exploring the scalability of the approach to larger datasets and more complex models could be a valuable direction for future research. 
 
-**Beyond Computer Science and Economics:** My question for Chatgpt: Do you think the incentivized framework will still work considering the bounded rationality of both human and AI agents? What if the client is replaced by an AI agent?
-
+**Beyond Computer Science and Economics:** 
 My question for Chatgpt 3.5:
 
 Do you think it is feasible to introduce such incentive mechanism to Federated learning to achieve an unbiased and high-performance global model considering bounded rationality of AI and Human agents
