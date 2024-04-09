@@ -1,4 +1,4 @@
-**Question1: Analyze your experience with oTree, identifying pain points in behavioral game theory research. Review related literature and class discussions to understand experimental economics' goals. Propose a software solution that outperforms oTree in at least three aspects, enhancing strategic interaction studies. Highlight why these advancements are crucial. Submit a concise essay question answer (500 words max) with your analysis and proposals, backed by literature and class insights. Your innovative ideas can significantly contribute to experimental economics, addressing current limitations and paving the way for advanced research methodologies.**
+![22001712637506_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/a3829b54-6588-4339-bfe1-8a1854616ff6)**Question1: Analyze your experience with oTree, identifying pain points in behavioral game theory research. Review related literature and class discussions to understand experimental economics' goals. Propose a software solution that outperforms oTree in at least three aspects, enhancing strategic interaction studies. Highlight why these advancements are crucial. Submit a concise essay question answer (500 words max) with your analysis and proposals, backed by literature and class insights. Your innovative ideas can significantly contribute to experimental economics, addressing current limitations and paving the way for advanced research methodologies.**
 
 Based on my personal experience, I think:
 - The whole deployment process might be little bit complicated for researchers who are unfamiliar with Python programming or web development concepts. People need to switch back and forth between different platforms(oTree-game set up,Desktop-store folder,VSC-control terminal,Web browser-open) to finish the deployment process. Although oTree offers many documentation and resources, there is still a coding requirement for customizing the game, which may take additional time for the user to understand the internal logic.
@@ -31,6 +31,10 @@ https://colab.research.google.com/drive/1pL-qFpME7lY4BFtGiFkTnLVdYjCH-dCL?usp=sh
 I think the Trust Game environment for MARL has several limitations. 
 - It has only two agents and limited actions (SEND or RECEIVE), coupled with a fixed game length, restricts its applicability to capturing the complexity of real-world interactions.(as the number of agents increases, the environment becomes less stable, and coordination among agents becomes more difficult.)
 
+![22001712637506_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/1514ecd4-672d-4c8a-90c4-a0a6f0835628)
+
+*fig.4. Screenshot of playing Trust Game*
+
 - The lack of comprehensive state information and a limited action space may hinder agents' ability to find the optimal strategies. Deterministic rewards further simplify the learning process but fail to capture the uncertainty present in real-world environments. Furthermore, the fixed roles assigned to agents and the absence of a learning mechanism limit the environment's ability to explore dynamic agent interactions and emergent behavior.
 
 To addresss:
@@ -55,8 +59,18 @@ competition between two types in a finite population.
 
 **Beyond Computer Science and Economics:** My question for Chatgpt: Do you think the incentivized framework will still work considering the bounded rationality of both human and AI agents? What if the client is replaced by an AI agent?
 
+My question for Chatgpt 3.5:
+
+Do you think it is feasible to introduce such incentive mechanism to Federated learning to achieve an unbiased and high-performance global model considering bounded rationality of AI and Human agents
+
 Response from ChatGPT:
-![21931712582684_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/fed47a12-f71b-419e-8d1b-8783cb89c9b2)
+
+![22011712638023_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/39d65de1-8470-4735-8bd0-869c8e390100)
+
+*fig.5. a screenshot of response from chatgpt*
+
+In general, Chatgpt admitted that implementing such a mechanism within existing FL frameworks is feasible from a technical perspective, , but it entails complexities in algorithm design to adapt to varying levels of participation and data relevance. While computational resources may be required for tracking participant contributions and managing incentive distributions, so there is a need to advance distributed computing and blockchain technologies to mitigate these challenges. 
+
 
 **Bibliography:**
 
