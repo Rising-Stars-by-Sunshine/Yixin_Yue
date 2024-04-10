@@ -20,7 +20,7 @@ To advance oTree based on the points I mentioned above,
 
 
 **Question2: Delve into the limitations of current multi-agent reinforcement learning (MARL) frameworks, focusing on environment constraints and agent algorithm customizations. Choose a classic game (e.g., Prisoner's Dilemma, Battle of the Sexes, or the Trust Game) to illustrate these limitations. Describe the development process of a MARL agent for your selected game, detailing the definition of states, actions, and rewards grounded in fundamental behavioral assumptions. Your analysis should provide insights into overcoming MARL's current limitations, fostering advancements in the field. Submit a comprehensive report (500 words max) with your findings and proposals.**
-Impletation for Trust Game:
+Implementation for Trust Game:
 
 https://colab.research.google.com/drive/1pL-qFpME7lY4BFtGiFkTnLVdYjCH-dCL?usp=sharing
 
@@ -37,7 +37,7 @@ I think the Trust Game environment for MARL has several limitations.
 
 - The lack of comprehensive state information and a limited action space may hinder agents' ability to find the optimal strategies. Deterministic rewards further simplify the learning process but fail to capture the uncertainty present in real-world environments. Furthermore, the fixed roles assigned to agents and the absence of a learning mechanism limit the environment's ability to explore dynamic agent interactions and emergent behavior.
 
-To addresss:
+To address:
 - Expand the environment to include more agents, a broader range of actions and states. Allow mutation/inheritance or
 competition between two types in a finite population.
 
