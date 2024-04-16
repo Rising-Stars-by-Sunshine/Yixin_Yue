@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1pL-qFpME7lY4BFtGiFkTnLVdYjCH-dCL?usp=sh
 *fig.3. Mindmap of the environment components.*
 
 I think the Trust Game environment **(fig.3)** for MARL has several limitations. 
-- It has only two agents and limited actions (SEND or RECEIVE), coupled with a fixed game length, restricts its applicability to capturing the complexity of real-world interactions.(as the number of agents increases, the environment becomes less stable, and coordination among agents becomes more difficult.)
+- It has only two agents and limited actions (SEND or RECEIVE), coupled with a fixed game length, restricts its applicability to capturing the complexity of real-world interactions **(fig.4)**.(as the number of agents increases, the environment becomes less stable, and coordination among agents becomes more difficult.)
 
 ![22001712637506_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/1514ecd4-672d-4c8a-90c4-a0a6f0835628)
 
@@ -62,7 +62,7 @@ My question for Chatgpt 3.5:
 
 Do you think it is feasible to introduce such incentive mechanism to Federated learning to achieve an unbiased and high-performance global model considering bounded rationality of AI and Human agents
 
-Response from ChatGPT:
+Response from ChatGPT **(fig.5)**:
 
 ![22011712638023_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/39d65de1-8470-4735-8bd0-869c8e390100)
 
