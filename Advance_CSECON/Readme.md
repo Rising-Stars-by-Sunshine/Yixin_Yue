@@ -2,14 +2,14 @@
 
 Based on my personal experience, I think:
 - The whole deployment process might be a little bit complicated for researchers who are unfamiliar with Python programming or web development concepts. People need to switch back and forth between different platforms(oTree-game set up, Desktop-store folder, VSC-control terminal, Web browser-open) to finish the deployment process. Although oTree offers many documentation and resources, there is still a coding requirement for customizing the game, which may take additional time for the user to understand the internal logic.
-- The limited interface design options in oTree's default interface are not very visually engaging, the playing page is a little bit hard to operate because there are three windows open on a web page. I have to drag it up and down repeatedly to play and see the data. I think it might be better if people can play in a pop out window.
+- The limited interface design options in oTree's default interface are not very visually engaging, the playing page is a little bit hard to operate because there are three windows open on a web page **(see fig.1)**. I have to drag it up and down repeatedly to play and see the data. I think it might be better if people can play in a pop out window.
 - There is a potential issue about data privacy. Since oTree experiments are typically hosted on servers of researchers or institutions, there may cause data exposure if the servers are not adequately secured.
 ![21951712587939_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/e0453c81-2b93-4166-9616-220c92728a43)
 
 *fig.1. Screenshot of the crowded window*
 
 
-To advance oTree based on the points I mentioned above, 
+To advance oTree based on the points I mentioned above, **see fig.2.**
 - Using built-in functions to reduce the programming complexity is crucial. In particular, introducing PlanOut language can potentially fix that. According to Bakshy, Eckles, and Bernstein (2014), PlanOut separates experimental design from application code in online field experiments by allowing experimenters to concisely describe experimental designs using a specific language. This separation can help users focus on defining how units are randomly assigned to conditions based on parameters, rather than embedding experimental logic within the application code. By encapsulating experimental logic in simple scripts that assign values to parameters, PlanOut provides a clear and structured way to define and manage experiments.
 - Additionally, integrating more intuitive interface design tools can help the researchers enhance the visual appeal of experimental interfaces.
 - More security measures should be done to protect participants' data from unauthorized access or breaches.When transferring data between oTree servers and external systems, researchers must use secure protocols (e.g., HTTPS) to encrypt data in transit and prevent interception or tampering.Using oTree development should comply with applicable data protection laws and regulations, such as the General Data Protection Regulation (GDPR) in the European Union or the Health Insurance Portability and Accountability Act (HIPAA) in the United States.
@@ -41,11 +41,11 @@ To address:
 - Expand the environment to include more agents, a broader range of actions and states. Allow mutation/inheritance or
 competition between two types in a finite population.
 
-- Use more sophisticated learning methods, such as Frequency-Adjusted Q-learning or WoLF. In addition, we can also extend to other Machine Learning techniques such as Neural Networks.
+- Use more sophisticated learning methods, such as Frequency-Adjusted Q-learning(Shi and Rong 2022), Grey Wolf Optimization and Neural Networks(Emary, Zawbaa, and Grosan 2018) to learn the evolutionary dynamics in this system.
 
 **Question3: Brainstorm your research idea by criticizing existing research: Critiquing and Expanding upon Existing Research**
 
-**Research question:** How to design a practical incentive mechanism for Federated Learning with partial client participation, to ensure convergence to a globally optimal unbiased model? 
+**Research question:** How to design a practical incentive mechanism for Federated Learning with partial client participation, to ensure convergence to a globally optimal unbiased model? (Luo et al., 2023)
 
 **Methodology:** proposes a game-theoretic incentive mechanism for Federated Learning (FL) with randomized client participation. The server adopts a customized pricing strategy to motivate various clients to participate in FL with different probabilities. Each client is involved in this process by responding to the server's monetary incentive and selecting its participation level. 
 
@@ -75,9 +75,11 @@ In general, Chatgpt admitted that implementing such a mechanism within existing 
 
 Bakshy, Eytan, Dean Eckles, and Michael S. Bernstein. 2014. "Designing and Deploying Online Field Experiments." Proceedings of the 23rd International Conference on World Wide Web, April. https://doi.org/10.1145/2566486.2567967. 
 
-Silver, David, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, et al. 2018. "A General Reinforcement Learning Algorithm That Masters Chess, Shogi, and Go through Self-Play." Science 362 (6419): 1140–44. https://doi.org/10.1126/science.aar6404. 
+Emary, E., Hossam M. Zawbaa, and Crina Grosan. 2018. “Experienced Gray Wolf Optimization through Reinforcement Learning and Neural Networks.” IEEE Transactions on Neural Networks and Learning Systems 29 (3): 681–94. https://doi.org/10.1109/tnnls.2016.2634548.
 
-Luo, Bing, Yutong Feng, Shiqiang Wang, Jianwei Huang, and Leandros Tassiulas. "Incentive Mechanism Design for Unbiased Federated Learning with Randomized Client Participation." In 2023 IEEE 43rd International Conference on Distributed Computing Systems (ICDCS), pp. 545-555. IEEE, 2023.
+Shi, Yiming, and Zhihai Rong. 2022. “Analysis of Q-Learning like Algorithms through Evolutionary Game Dynamics.” IEEE Transactions on Circuits and Systems II: Express Briefs 69 (5): 2463–67. https://doi.org/10.1109/tcsii.2022.3161655.
+
+Luo, Bing, Yutong Feng, Shiqiang Wang, Jianwei Huang, and Leandros Tassiulas. 2023. “Incentive Mechanism Design for Unbiased Federated Learning with Randomized Client Participation.” ArXiv (Cornell University), April. https://doi.org/10.48550/arxiv.2304.07981.
 
 
 
