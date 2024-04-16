@@ -68,7 +68,7 @@ Response from ChatGPT **(fig.5)**:
 
 *fig.5. a screenshot of response from chatgpt*
 
-In general, Chatgpt admitted that implementing such a mechanism within existing FL frameworks is feasible from a technical perspective, , but it entails complexities in algorithm design to adapt to varying levels of participation and data relevance. While computational resources may be required for tracking participant contributions and managing incentive distributions, so there is a need to advance distributed computing and blockchain technologies to mitigate these challenges. 
+In general, Chatgpt admitted that implementing such a mechanism within existing FL frameworks is feasible from a technical perspective, but it entails complexities in algorithm design to adapt to varying levels of participation and data relevance. While computational resources may be required for tracking participant contributions and managing incentive distributions, so there is a need to advance distributed computing and blockchain technologies to mitigate these challenges. 
 
 
 **Bibliography:**
