@@ -2,7 +2,7 @@
 
 Based on my personal experience, I think:
 - The whole deployment process might be a little bit complicated for researchers who are unfamiliar with Python programming or web development concepts. People need to switch back and forth between different platforms(oTree-game set up, Desktop-store folder, VSC-control terminal, Web browser-open) to finish the deployment process. Although oTree offers many documentation and resources, there is still a coding requirement for customizing the game, which may take additional time for the user to understand the internal logic.
-- The limited interface design options in oTree's default interface are not very visually engaging, the playing page is a little bit hard to operate because there are three windows open on a web page **(see fig.1)**. I have to drag it up and down repeatedly to play and see the data. I think it might be better if people can play in a pop out window.
+- The limited interface design options in oTree's default interface are not very visually engaging, the playing page is a little bit hard to operate because there are three windows open on a web page **(fig.1)**. I have to drag it up and down repeatedly to play and see the data. I think it might be better if people can play in a pop out window.
 - There is a potential issue about data privacy. Since oTree experiments are typically hosted on servers of researchers or institutions, there may cause data exposure if the servers are not adequately secured.
 ![21951712587939_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/e0453c81-2b93-4166-9616-220c92728a43)
 
