@@ -7,7 +7,8 @@
 - **Acknowledgements**: I want to thank Prof. Luyao Zhang for her dedication to teaching, her expertise in computational economics has been instrumental in shaping my understanding in this cutting-edge field. I am also thankful for the valuable feedback and encouragement she has provided, which has had a profound impact on my academic journey.
 
 ### Introduction to the GitHub Repository
-![Week1 (1)](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/05e65fa2-2127-4ae1-95de-62b81850c786)
+<img width="866" alt="截屏2024-04-25 上午10 15 39" src="https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/476f0a86-9ed3-40a8-8f48-8243d618e13b">
+
 
 
 ## Table of Contents
