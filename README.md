@@ -24,7 +24,8 @@
 - **Final Reflections**: 
   - **Intellectual Growth**: 
 This class has been so enriching, for me it is like a starting journey into the economics. I've gained a basic understanding of key economic concepts such as bounded rationality, game theory, and mechanism design through a lot of cutting-edge research papers, online materials, and engaging class activities facilitated by our professor. What I find truly fascinating about interdisciplinary study is the constant encouragement to think outside of the box, to surpass the achievements of those great minds, and to advance the boundaries of economics by building upon their contributions.
-  - **Professional Growth**: Skills developed and career aspirations.
+  - **Professional Growth**: The structure and material covered in the course are carefully designed to provide us with the necessary skills to do academic research from scratch. Throughout the course, I learned to use many practical and professional tools. For instance, I learned how to use existing tools like the Game Theory Explorer and Python package Nashpy for computing Nash Equilibrium across various game scenarios. Additionally, I learned how to utilize Latex coding to automatically format research proposals and how to construct and manage my GitHub page using markdown language. These experiences have greatly contributed to my academic development and represent significant milestones in my growth as a researcher.
+
   - **Living a Purposeful Life**: Personal achievements and future goals.
 
 
