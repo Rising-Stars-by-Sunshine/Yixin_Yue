@@ -20,7 +20,7 @@ This chart illustrates the class's progress over the past seven weeks, you can f
 
 ## 🥰More About Me
 <p align="center">
-  <img src="https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/blob/main/assets/164857136/a88798fe-497d-48e2-a092-249d621197eb.png?raw=true" alt="Alt Text" width="500">
+  <img src="https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/blob/main/assets/164857136/a88798fe-497d-48e2-a092-249d621197eb.png" alt="Alt Text" width="500">
 </p>
 
 👋 Hi there! I'm Yixin, a sophomore majoring in computation and design-digital media. 🌍 I'm deeply enthusiastic about computational economics, and I love diving into new challenges and learning opportunities. 💡 You'll often find me tinkering with code, exploring the great outdoors 🌳, or curled up with a good book 📚 and a cup of coffee ☕️. I believe in the power of community and collaboration, and I'm always eager to connect with fellow enthusiasts and creators. Let's embark on this exciting journey together! 🚀
