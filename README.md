@@ -22,7 +22,8 @@
 - **Self-Introduction**: 👋 Hi there! I'm Yixin, a sophomore majoring in computation and design-digital media. 🌍 I'm deeply enthusiastic about computational economics, and I love diving into new challenges and learning opportunities. 💡 You'll often find me tinkering with code, exploring the great outdoors 🌳, or curled up with a good book 📚 and a cup of coffee ☕️. I believe in the power of community and collaboration, and I'm always eager to connect with fellow enthusiasts and creators. Let's embark on this exciting journey together! 🚀
 
 - **Final Reflections**: 
-  - **Intellectual Growth**: Insights and knowledge acquired.
+  - **Intellectual Growth**: 
+This class has been so enriching, for me it is like a starting journey into the economics. I've gained a basic understanding of key economic concepts such as bounded rationality, game theory, and mechanism design through a lot of cutting-edge research papers, online materials, and engaging class activities facilitated by our professor. What I find truly fascinating about interdisciplinary study is the constant encouragement to think outside of the box, to surpass the achievements of those great minds, and to advance the boundaries of economics by building upon their contributions.
   - **Professional Growth**: Skills developed and career aspirations.
   - **Living a Purposeful Life**: Personal achievements and future goals.
 
