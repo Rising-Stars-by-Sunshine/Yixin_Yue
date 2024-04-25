@@ -14,7 +14,7 @@
 ## Table of Contents
 - [ProblemSet1——Reflection1](./CSEcon/Readme.md)
 - [ProblemSet1——Reflection2](./Advance_CSECON/Readme.md)
-- [Final Proposal](./proposal/Readme.md)
+- [ProblemSet2——Final Proposal](./proposal/Readme.md)
 
 ## More About the Author
 ![21371711591245_ pic](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/8829de56-0c84-453d-8c9c-74c614761f47)  
