@@ -8,31 +8,6 @@
 
 ### Introduction to the GitHub Repository
 
-Week 1: Computer Science Meets Economics: The General Framework.
-    |
-    |-- Learning objective 1: what are the research questions and methodologies at the interface of computer science and economics?
-    |
-    |-- Learning objective 4: learn collaboratively and provide constructive criticism of peers’ work in computational economics—cooperate, empathize, and reciprocate.
-
-Week 2: Computer Science Meets Economics: The Technique pipeline
-    |
-    |-- Learning objective 2: illustrate and explain the basic principles of microeconomic models and computational methods — the pipeline.
-    |
-    |-- Learning objective 4: learn collaboratively and provide constructive criticism of peers’ work in computational economics.
-
-Week 3: Computer Science Meets Economics: Game Theory
-    |
-    |-- Learning objective 3: formalize microeconomic problems in game theory or mechanism design and simulate the solutions using computational methods.
-    |
-    |-- Learning objective 4: learn collaboratively and provide constructive criticism of peers’ work in computational economics.
-
-Week 4: Computer Science Meets Economics: Algorithmic Game Theory
-    |
-    |-- Learning objective 2: Illustrate and explain the basic principles of microeconomic models and the computational methods —what is algorithmic game theory?
-    |
-    |-- Learning objective 3: Formalize microeconomic problems in game theory or mechanism design and simulate the solutions using computational methods. [OER] (Nashpy and QuantEcon)
-    |
-    |-- Learning objective 3: Formalize microeconomic problems in game theory or mechanism design and simulate the solutions using computational methods. [OER] (Game Theory Explorer and Gambit)
 
 
 ## Table of Contents
