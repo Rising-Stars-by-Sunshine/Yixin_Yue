@@ -1,4 +1,4 @@
-# CSECON206_Spring2024
+# CS206_Spring2024_Yixin Yue
 ## AI in Trust Game: Dissecting the Impact of Contextual Roles on AI Decision-Making
 ## 🌟Project Information
 - **Author**: Yixin Yue, Majoring in Computation and Design, Class of 2026, Duke Kunshan University
