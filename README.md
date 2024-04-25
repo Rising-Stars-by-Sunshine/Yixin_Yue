@@ -20,7 +20,7 @@ This chart illustrates the class's progress over the past seven weeks, you can f
 
 ## 🥰More About Me
 <p align="center">
-  <img src="https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/blob/main/assets/164857136/26189c78-d1e1-40fa-a118-d01807396432.png" alt="PNG图像">
+  <img ![图像](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/bd8bdf12-a75f-4f80-b2d3-e0da0df1a549)
 </p>
 
 
