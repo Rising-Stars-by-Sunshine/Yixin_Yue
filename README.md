@@ -8,7 +8,32 @@
 
 ### Introduction to the GitHub Repository
 
-Please provide an introduction to the content of this GitHub repository, bearing in mind that external viewers may not be familiar with the terms PS1, PS2, and the Final Project as used in our class. It is essential to include enough background information to bring outsiders up to speed. Additionally, include a flowchart that clearly outlines the logical progression and the interconnections between these assignments for a clearer understanding of the course structure.
+Week 1: Computer Science Meets Economics: The General Framework.
+    |
+    |-- Learning objective 1: what are the research questions and methodologies at the interface of computer science and economics?
+    |
+    |-- Learning objective 4: learn collaboratively and provide constructive criticism of peers’ work in computational economics—cooperate, empathize, and reciprocate.
+
+Week 2: Computer Science Meets Economics: The Technique pipeline
+    |
+    |-- Learning objective 2: illustrate and explain the basic principles of microeconomic models and computational methods — the pipeline.
+    |
+    |-- Learning objective 4: learn collaboratively and provide constructive criticism of peers’ work in computational economics.
+
+Week 3: Computer Science Meets Economics: Game Theory
+    |
+    |-- Learning objective 3: formalize microeconomic problems in game theory or mechanism design and simulate the solutions using computational methods.
+    |
+    |-- Learning objective 4: learn collaboratively and provide constructive criticism of peers’ work in computational economics.
+
+Week 4: Computer Science Meets Economics: Algorithmic Game Theory
+    |
+    |-- Learning objective 2: Illustrate and explain the basic principles of microeconomic models and the computational methods —what is algorithmic game theory?
+    |
+    |-- Learning objective 3: Formalize microeconomic problems in game theory or mechanism design and simulate the solutions using computational methods. [OER] (Nashpy and QuantEcon)
+    |
+    |-- Learning objective 3: Formalize microeconomic problems in game theory or mechanism design and simulate the solutions using computational methods. [OER] (Game Theory Explorer and Gambit)
+
 
 ## Table of Contents
 - [Reflection1](./CSEcon/Readme.md)
