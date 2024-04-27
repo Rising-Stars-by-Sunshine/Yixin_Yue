@@ -1,4 +1,6 @@
-***Research Descriptions***
+***Research Poster***
+
+View-Only Canva URL: https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **[Summarize the Background/Motivation]**
 - What are the gaps between the existing literature and the pressing social and economic issues in the digital economy of complex system involving both human and AI agent that inspires your research?
