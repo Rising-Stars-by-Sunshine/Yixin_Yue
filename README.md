@@ -18,7 +18,8 @@ This chart illustrates the class's progress over the past seven weeks, you can f
 - [ProblemSet2——Final Proposal](./proposal/Readme.md)
 
 ## 🥰 More About Me
-![图像](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/99e04145-f723-486a-8b10-35f878d2eefb)
+![608a2d01-0542-11ef-8f18-8675f233a16d_00004_raw](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/600755fd-b832-4f13-8537-2f6eaa618a26)
+
 
 
 👋 Hi there! I'm Yixin, a sophomore majoring in computation and design-digital media. 🌍 I'm deeply enthusiastic about computational economics, and I love diving into new challenges and learning opportunities. 💡 You'll often find me tinkering with code, exploring the great outdoors 🌳, or curled up with a good book 📚 and a cup of coffee ☕️. I believe in the power of community and collaboration, and I'm always eager to connect with fellow enthusiasts and creators. Let's embark on this exciting journey together! 🚀
