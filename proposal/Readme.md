@@ -51,4 +51,7 @@ Understanding our framework is vital for risk mitigation when employing AI agent
 
 **[Intellectual Merits and Practical impacts of your project]**
 - Can you demonstrate the limitation of your current research that would inspire future research? For example, what are the other important objectives of human welfare that you approach does not consider yet? 
-- Can you elaborate on how your research can be applied to improve individual, company, and government decisions in strategic scenarios or social choice issues? 
+- Can you elaborate on how your research can be applied to improve individual, company, and government decisions in strategic scenarios or social choice issues?
+
+Due to technological restrictions, restricting the experiment to only five rounds may not fully capture the nuances of behavioral tendencies among AI agents. Expanding the number of rounds of testing could provide a more comprehensive understanding of how AI decision-making evolves over time. Future research can delve deeper into the result tendencies when the number of rounds increased to the next order of magnitudes.
+
