@@ -1,4 +1,4 @@
-![image](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/ae4f7b7e-c25b-48f2-9045-9ecb2e8e5dce)***Research Poster***
+***Research Poster***
 
 View-Only Canva poster: https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
