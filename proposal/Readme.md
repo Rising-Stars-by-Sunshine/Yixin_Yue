@@ -1,6 +1,15 @@
 ***Research Poster***
 
-View-Only Canva URL: https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+View-Only Canva poster: https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+***Overleaf***
+
+View-Only overleaf: https://www.overleaf.com/read/cdqcmzvrgphm#57d2fa
+
+***Compiled PDF***
+
+[CSECON206_Yixin_Yue.pdf](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/files/15140567/CSECON206_Yixin_Yue.pdf)
+
 
 **[Summarize the Background/Motivation]**
 - What are the gaps between the existing literature and the pressing social and economic issues in the digital economy of complex system involving both human and AI agent that inspires your research?
