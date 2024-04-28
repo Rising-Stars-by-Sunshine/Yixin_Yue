@@ -41,7 +41,7 @@ Literature in psychology provides a rich foundation for understanding the behavi
 - What is the advanced technology or interdisciplinary insights that you integrate into the existing methods that smartly solve your research question? 
 
 My study builds upon the theoretical framework of the trust game proposed by Berg et al. (1995), which provides insights into trust and cooperation in economic interactions. I also incorporate the study by Ben-Ner and Halldorsson (2010), which offers a methodology for measuring trust and trustworthiness. By integrating these theoretical and methodological foundations, I aim to analyze trust and trustworthiness in the context of AI decision-making.
-I will use python package QuantEcon to simulate the game environment and I will employ an extensive-form approach with the help of Game Theory Explorer.
+I will use oTree to simulate the game environment and I will employ an extensive-form approach with the help of Game Theory Explorer.
 
 
 **[Preliminary Results]**
