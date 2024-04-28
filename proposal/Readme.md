@@ -1,4 +1,4 @@
-***Research Poster***
+![image](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/assets/164857136/ae4f7b7e-c25b-48f2-9045-9ecb2e8e5dce)***Research Poster***
 
 View-Only Canva poster: https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
@@ -47,7 +47,7 @@ I will use python package QuantEcon to simulate the game environment and I will 
 **[Preliminary Results]**
 - Can you provide a concrete illustration example of game theory or mechanism design that your approach significantly improves at least one objective of human welfare compared to existing research without your approach? 
 
-
+Understanding our framework is vital for risk mitigation when employing AI agents on automated decision-making in different divisions, especially in the field where economists would interact with computer scientists, utilizing computational technologies to solve real-world economic problems. With the help and evaluation of our framewok, the interaction can be more reliable and trustworthy for human agents to understand.
 
 **[Intellectual Merits and Practical impacts of your project]**
 - Can you demonstrate the limitation of your current research that would inspire future research? For example, what are the other important objectives of human welfare that you approach does not consider yet? 
