@@ -18,23 +18,20 @@ The existing literature lacks systematic studies on how specific social roles an
 
 **[Research Questions]**
 - What are the questions that your research intends to answer?
-  
+- Why are the questions important?
+- Why are the questions not answered by existing game theory literature?
+
 How specific social roles and contextual factors influence AI decision-making in the context of Trust Game? How do distinct AI chatbots, such as ChatGPT and Copilot, differ in demonstrating social personalities when engaged in decision-making tasks?
 
-- Why are the questions important?
-
 These questions are crucial because they provide insights into developing effective and socially adaptive AI systems. This is also vital for risk mitigation when employing AI agents on automated decision-making in different social divisions.
-
-- Why are the questions not answered by existing game theory literature?
 
 While some research may touch upon AI behavior in game theory contexts, there is a gap in studies that delve into the nuanced effects of social roles and contexts that are not involved in the traditional game theory context concerning AI trust and decision-making.
 
 **[Application Scenario]**
 - In which real-world situation does your newly proposed game and/or solution concept or mechanism apply?
+- What is the literature in other discipline such as psychology that could provide a behavioral foundation of your newly proposed game and/or solution concept, or mechanism?
 
-The applies to real-world scenarios where AI-driven decision-making holds significance, especially within economic contexts emphasizing trust and cooperation. This includes domains such as online marketplaces, collaborative platforms, and automated decision-making systems in insurance and finance. In the realm of insurance and finance, AI is utilized for risk detection and financial prediction purposes. By leveraging machine learning algorithms, AI enhances fraud detection and improves forecasting accuracy by analyzing vast amounts of financial and policy data. 
-
-- What is the literature in other discipline such as psychology that could provide a behavioral foundation of your newly proposed game and/or solution concept, or mechanism? 
+The applies to real-world scenarios where AI-driven decision-making holds significance, especially within economic contexts emphasizing trust and cooperation. This includes domains such as online marketplaces, collaborative platforms, and automated decision-making systems in insurance and finance. In the realm of insurance and finance, AI is utilized for risk detection and financial prediction purposes. By leveraging machine learning algorithms, AI enhances fraud detection and improves forecasting accuracy by analyzing vast amounts of financial and policy data.  
 
 Literature in psychology provides a rich foundation for understanding the behavioral aspects of the proposed game and solution concept. Concepts such as trust, reciprocity, and social roles have been extensively studied in psychology and can inform our understanding of how AI agents may behave in socio-economic contexts. Additionally, theories of decision-making, social cognition, and human-computer interaction can offer insights into the underlying mechanisms driving AI decision-making and interactions within the proposed game framework.
 
@@ -43,8 +40,14 @@ Literature in psychology provides a rich foundation for understanding the behavi
 - What is the key computational or analytical tools that you apply to answer your requestion question?
 - What is the advanced technology or interdisciplinary insights that you integrate into the existing methods that smartly solve your research question? 
 
+My study builds upon the theoretical framework of the trust game proposed by Berg et al. (1995), which provides insights into trust and cooperation in economic interactions. I also incorporate the study by Ben-Ner and Halldorsson (2010), which offers a methodology for measuring trust and trustworthiness. By integrating these theoretical and methodological foundations, I aim to analyze trust and trustworthiness in the context of AI decision-making.
+I will use python package QuantEcon to simulate the game environment and I will employ an extensive-form approach with the help of Game Theory Explorer.
+
+
 **[Preliminary Results]**
 - Can you provide a concrete illustration example of game theory or mechanism design that your approach significantly improves at least one objective of human welfare compared to existing research without your approach? 
+
+
 
 **[Intellectual Merits and Practical impacts of your project]**
 - Can you demonstrate the limitation of your current research that would inspire future research? For example, what are the other important objectives of human welfare that you approach does not consider yet? 
