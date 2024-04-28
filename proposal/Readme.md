@@ -1,6 +1,6 @@
 ***Research Poster***
 
-View-Only Canva poster: https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+View-Only Canva poster:https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf_uq2Xw/edit?utm_content=DAGDhD16EJA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ***Overleaf***
 
