@@ -14,14 +14,29 @@ View-Only overleaf: https://www.overleaf.com/read/cdqcmzvrgphm#57d2fa
 **[Summarize the Background/Motivation]**
 - What are the gaps between the existing literature and the pressing social and economic issues in the digital economy of complex system involving both human and AI agent that inspires your research?
 
+The existing literature lacks systematic studies on how specific social roles and contextual factors influence AI decision-making in real-world game theory scenarios. This research aims to fill this gap by investigating how AI chatbots' behaviors differ when assigned roles such as economist and computer scientist in the Trust Game. By comparing the responses of different AI models, this study contributes to a deeper analysis of trust and trustworthiness among AI agents in economic contexts. Additionally, it offers valuable insights for the development of socially adaptive AI systems in diverse social realms.
+
 **[Research Questions]**
 - What are the questions that your research intends to answer?
+  
+How specific social roles and contextual factors influence AI decision-making in the context of Trust Game? How do distinct AI chatbots, such as ChatGPT and Copilot, differ in demonstrating social personalities when engaged in decision-making tasks?
+
 - Why are the questions important?
+
+These questions are crucial because they provide insights into developing effective and socially adaptive AI systems. This is also vital for risk mitigation when employing AI agents on automated decision-making in different social divisions.
+
 - Why are the questions not answered by existing game theory literature?
+
+While some research may touch upon AI behavior in game theory contexts, there is a gap in studies that delve into the nuanced effects of social roles and contexts that are not involved in the traditional game theory context concerning AI trust and decision-making.
 
 **[Application Scenario]**
 - In which real-world situation does your newly proposed game and/or solution concept or mechanism apply?
+
+The applies to real-world scenarios where AI-driven decision-making holds significance, especially within economic contexts emphasizing trust and cooperation. This includes domains such as online marketplaces, collaborative platforms, and automated decision-making systems in insurance and finance. In the realm of insurance and finance, AI is utilized for risk detection and financial prediction purposes. By leveraging machine learning algorithms, AI enhances fraud detection and improves forecasting accuracy by analyzing vast amounts of financial and policy data. 
+
 - What is the literature in other discipline such as psychology that could provide a behavioral foundation of your newly proposed game and/or solution concept, or mechanism? 
+
+Literature in psychology provides a rich foundation for understanding the behavioral aspects of the proposed game and solution concept. Concepts such as trust, reciprocity, and social roles have been extensively studied in psychology and can inform our understanding of how AI agents may behave in socio-economic contexts. Additionally, theories of decision-making, social cognition, and human-computer interaction can offer insights into the underlying mechanisms driving AI decision-making and interactions within the proposed game framework.
 
 **[Methodology]**
 - What is the key game theoretical or mechanism design framework that you build upon?
