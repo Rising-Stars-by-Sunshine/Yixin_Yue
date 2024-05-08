@@ -4,11 +4,12 @@ View-Only Canva poster:https://www.canva.com/design/DAGDhD16EJA/TarQnqZIsgok-ukf
 
 ***Overleaf***
 
-View-Only overleaf: https://www.overleaf.com/read/cdqcmzvrgphm#57d2fa
+View-Only overleaf: [https://www.overleaf.com/read/cdqcmzvrgphm#57d2fa](https://www.overleaf.com/read/cdqcmzvrgphm#57d2fa)
 
 ***Compiled PDF***
+[CSECON206_Yixin_Yue (2).pdf](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/files/15247853/CSECON206_Yixin_Yue.2.pdf)
 
-[CSECON206_Yixin_Yue.pdf](https://github.com/Rising-Stars-by-Sunshine/Yixin_Yue/files/15140567/CSECON206_Yixin_Yue.pdf)
+
 
 
 **[Summarize the Background/Motivation]**
