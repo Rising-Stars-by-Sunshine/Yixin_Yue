@@ -15,7 +15,7 @@ This chart illustrates the class's progress over the past seven weeks, you can f
 ## 👇 Table of Contents
 - [ProblemSet1——Reflection1](./CSEcon/Readme.md)
 - [ProblemSet1——Reflection2](./Advance_CSECON/Readme.md)
-- [ProblemSet2——Final Proposal](./proposal/Readme.md)
+- [Final Proposal](./proposal/Readme.md)
 
 ## 🥰 More About Me
 <p align="center">
